@@ -1,1 +1,1 @@
-glove.6B.50d需要解压才能用
+# glove.6B.50d needs to be decompressed before it can be used
